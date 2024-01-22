@@ -1,0 +1,42 @@
+.sec1{
+    background-image: url("bg4.png");
+    background-repeat: no-repeat;
+    width: 1550px;
+   height: 800px;
+}
+.batton{
+    margin-left: 190px;
+    margin-top: 50px;
+    border-radius: 25px;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    margin-right: 255px;
+}
+a{
+    text-decoration: none;
+}
+.spen{
+  color:blue;
+}
+span{
+    color:white;
+}
+.middle-one{
+    text-align: center;
+    margin-top: 150px;
+}
+h1{
+    font-size: 80px;
+    margin-right: 195px;
+}
+.navbar-brand{
+    margin-left: 70px;
+}
+.navbar-nav{
+    margin-left: 250px;
+}
+.margin{
+   text-align: end;
+   margin-left: 100px;
+}
